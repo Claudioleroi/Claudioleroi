@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m software engineer with a strong knowledge in devop methodology <br>👯 I’m looking to collaborate on " Everything " <br>🤝 I’m looking for "saint graal", the builder's mind<br>🌱 I’m currently learning react native<br>💬 Ask me about AI , Cloud Computing ,Software Development  and Pent-testing 
+🔭 I’m software engineer with a strong knowledge in devop methodology <br>👯 I’m looking to collaborate on " Everything " <br>🤝 I’m looking for "saint graal", the builder's mind<br>🌱 I’m currently learning react native<br>💬 Ask me about AI , Cloud Computing ,Software engineering  and Pent-testing 
 
 
 ## 🌐 Socials:
